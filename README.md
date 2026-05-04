@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hang</h1>
 
 <h3 align="center">
-  A Visiting Assistant Professor in Computer Information Science at Allegheny College
+  A Visiting Assistant Professor in the Business and Economics Department and Department of Computer Information Science at Allegheny College
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
 <ul>
-  <li>🔭 I’m currently working on <strong>Institutional Peers Analysis</strong></li>
+  <li>🔭 I’m currently working on <strong>Generative AI and Academic Performance: Early Evidence from the Adoption of ChatGPT in Higher Education</strong> </li>
   <li>📫 How to reach me <strong>hzhao@allegheny.edu</strong></li>
 </ul>
 
